@@ -2,6 +2,7 @@
   <Project Path="CLIENTE2/CLIENTE2.csproj" />
   <Project Path="ComputadoraEscritorio/ComputadoraEscritorio.csproj" />
   <Project Path="Equipoo/Equipoo.csproj" />
+  <Project Path="Impresora/Impresora.csproj" />
   <Project Path="Laptop/Laptop.csproj" />
   <Project Path="Tecnico2/Tecnico2.csproj" />
 </Solution>
