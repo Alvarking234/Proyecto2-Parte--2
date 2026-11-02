@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SistemadeSoporte": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

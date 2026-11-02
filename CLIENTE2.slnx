@@ -5,6 +5,7 @@
   <Project Path="Impresora/Impresora.csproj" />
   <Project Path="Laptop/Laptop.csproj" />
   <Project Path="Repuesto/Repuesto.csproj" />
+  <Project Path="SistemadeSoporte/SistemadeSoporte.csproj" />
   <Project Path="Solicitud2/Solicitud2.csproj" />
   <Project Path="Tecnico2/Tecnico2.csproj" />
 </Solution>
