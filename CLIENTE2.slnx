@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="CLIENTE2/CLIENTE2.csproj" />
+  <Project Path="Tecnico2/Tecnico2.csproj" />
 </Solution>
